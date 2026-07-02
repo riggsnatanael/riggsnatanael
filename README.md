@@ -1,4 +1,4 @@
-👋 Hi, I'm Natanael Jones <br/>
+👋 Hi, I'm Natanael Riggs <br/>
 <br/>
 😄 I'm a fan of SQL, R, and Python! <br/>
 🌱 I’m a Data Engineer committed to continually learning <br/>
