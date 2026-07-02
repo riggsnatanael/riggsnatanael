@@ -2,7 +2,7 @@
 <br/>
 😄 I'm a fan of SQL, R, and Python! <br/>
 🌱 I’m a Data Engineer committed to continually learning <br/>
-📫 You can view more about me here: [riggsnatanael.carrd.co](riggsnatanael.carrd.co) <br/>
+📫 You can view more about me here: [riggsnatanael.carrd.co](https://riggsnatanael.carrd.co) <br/>
 ⚡ I'm also a husband, father, leatherworking enthusiast, and lover of yoga <br/>
 
 <!---
